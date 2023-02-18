@@ -7,3 +7,5 @@ add add
 
 new line
 modify this!
+
+Still need to learn a lot of shortcuts
